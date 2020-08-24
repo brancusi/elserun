@@ -11,8 +11,8 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h1
         style={{
-          ...scale(1.5),
-          marginBottom: rhythm(1.5),
+          ...scale(1.25),
+          marginBottom: rhythm(1.25),
           marginTop: 0,
         }}
       >
@@ -59,9 +59,8 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        © {new Date().getFullYear()},{` `}
+        Aram Zadikian
       </footer>
     </div>
   )

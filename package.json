@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "Else Run",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Aram Zadikian's Personal Blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Aram Zadikian <az@else.run>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },

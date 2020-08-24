@@ -8,6 +8,7 @@ import { rhythm } from "../utils/typography"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
+  const siteDescription = data.site.siteMetadata.description
   const posts = data.allMarkdownRemark.edges
 
   return (
