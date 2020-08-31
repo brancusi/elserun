@@ -1,6 +1,6 @@
 ---
 title: Is your comparing mind screwing you?
-date: "2020-08-23T22:40:32.169Z"
+date: "2020-08-30T22:40:32.169Z"
 description: Why do we compare ourselves to others?
 ---
 
