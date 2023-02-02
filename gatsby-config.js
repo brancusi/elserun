@@ -3,7 +3,7 @@ module.exports = {
     title: `Else Run`,
     author: {
       name: `Aram Zadikian`,
-      summary: `lives and works in Los Angeles getting people healthy food.`,
+      summary: `lives and works in Los Angeles helping companies build amazing systems.`,
     },
     description: `Thoughts, observations, and other things`,
     siteUrl: `https://www.else.run`,
