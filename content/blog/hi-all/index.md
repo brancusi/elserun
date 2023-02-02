@@ -1,13 +1,9 @@
 ---
-title: Hi there
-date: "2020-08-23T22:40:32.169Z"
-description: Welcome to my personal blog
+title: Else Run
+date: "2023-02-02T22:40:32.169Z"
+description: Welcome to Else Run
 ---
 
-##The focus of this blog
+##If Else Run
 
-I want to share some of the things I've learned over the years.
-
-We'll talk about business, life, and random things along the way.
-
-Enjoy.
+Coming soon
